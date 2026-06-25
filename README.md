@@ -1,4 +1,4 @@
-# Eduardo Fernandes
+# Eduardo Antonio Cecilio Fernandes
 
 **Backend Engineer · Team Lead · Berlin**
 
